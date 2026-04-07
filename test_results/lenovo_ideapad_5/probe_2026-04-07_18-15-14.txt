@@ -17,13 +17,13 @@ Hardware: Lenovo IdeaPad 5 15ALC05
 --------------------
 
 - Networking
-  Device 1 Status: FAILED
+  Device 1 Status: WORKS 
     none1@pci0:1:0:0:	class=0x028000 rev=0x00 hdr=0x00 vendor=0x14c3 device=0x7961 subvendor=0x17aa subdevice=0xe0bc
         vendor     = 'MEDIATEK Corp.'
         device     = 'MT7921 802.11ax PCIe Wireless Network Adapter [Filogic 330]'
         class      = network
 
-  Category Total Score: 0/2
+  Category Total Score: 2/2
 
 --------------------
 
