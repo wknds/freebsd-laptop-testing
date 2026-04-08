@@ -55,36 +55,6 @@ Hardware: Latitude E4300
 --------------------
 
 - USB Ports
-    uhci0@pci0:0:26:0:	class=0x0c0300 rev=0x03 hdr=0x00 vendor=0x8086 device=0x2937 subvendor=0x1028 subdevice=0x024d
-        vendor     = 'Intel Corporation'
-        device     = '82801I (ICH9 Family) USB UHCI Controller'
-        class      = serial bus
-        subclass   = USB
-    uhci1@pci0:0:26:1:	class=0x0c0300 rev=0x03 hdr=0x00 vendor=0x8086 device=0x2938 subvendor=0x1028 subdevice=0x024d
-        vendor     = 'Intel Corporation'
-        device     = '82801I (ICH9 Family) USB UHCI Controller'
-        class      = serial bus
-        subclass   = USB
-    uhci2@pci0:0:26:2:	class=0x0c0300 rev=0x03 hdr=0x00 vendor=0x8086 device=0x2939 subvendor=0x1028 subdevice=0x024d
-        vendor     = 'Intel Corporation'
-        device     = '82801I (ICH9 Family) USB UHCI Controller'
-        class      = serial bus
-        subclass   = USB
-    ehci0@pci0:0:26:7:	class=0x0c0320 rev=0x03 hdr=0x00 vendor=0x8086 device=0x293c subvendor=0x1028 subdevice=0x024d
-        vendor     = 'Intel Corporation'
-        device     = '82801I (ICH9 Family) USB2 EHCI Controller'
-        class      = serial bus
-        subclass   = USB
-    uhci3@pci0:0:29:0:	class=0x0c0300 rev=0x03 hdr=0x00 vendor=0x8086 device=0x2934 subvendor=0x1028 subdevice=0x024d
-        vendor     = 'Intel Corporation'
-        device     = '82801I (ICH9 Family) USB UHCI Controller'
-        class      = serial bus
-        subclass   = USB
-    uhci4@pci0:0:29:1:	class=0x0c0300 rev=0x03 hdr=0x00 vendor=0x8086 device=0x2935 subvendor=0x1028 subdevice=0x024d
-        vendor     = 'Intel Corporation'
-        device     = '82801I (ICH9 Family) USB UHCI Controller'
-        class      = serial bus
-        subclass   = USB
     uhci5@pci0:0:29:2:	class=0x0c0300 rev=0x03 hdr=0x00 vendor=0x8086 device=0x2936 subvendor=0x1028 subdevice=0x024d
         vendor     = 'Intel Corporation'
         device     = '82801I (ICH9 Family) USB UHCI Controller'
