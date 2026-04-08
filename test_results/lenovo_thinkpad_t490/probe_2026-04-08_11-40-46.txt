@@ -1,7 +1,7 @@
 === FreeBSD Hardware Status Info ===
 
 Running: FreeBSD 14.4-RELEASE-p1 GENERIC
-Hardware: 20N3S94909
+Hardware: Lenovo ThinkPad T490 
 ------------------------------------
 
 - Graphics
