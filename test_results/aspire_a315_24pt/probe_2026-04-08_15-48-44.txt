@@ -57,14 +57,17 @@ Hardware: Aspire A315-24PT
 - USB Ports
     xhci0@pci0:3:0:3:	class=0x0c0330 rev=0x00 hdr=0x00 vendor=0x1022 device=0x1503 subvendor=0x1025 subdevice=0x1654
         vendor     = 'Advanced Micro Devices, Inc. [AMD]'
+	device	   = 'USB Controller 1'
         class      = serial bus
         subclass   = USB
     xhci1@pci0:3:0:4:	class=0x0c0330 rev=0x00 hdr=0x00 vendor=0x1022 device=0x1504 subvendor=0x1025 subdevice=0x1654
         vendor     = 'Advanced Micro Devices, Inc. [AMD]'
+	device     = 'USB Controller 2'
         class      = serial bus
         subclass   = USB
     xhci2@pci0:4:0:0:	class=0x0c0330 rev=0x00 hdr=0x00 vendor=0x1022 device=0x1505 subvendor=0x1025 subdevice=0x1654
         vendor     = 'Advanced Micro Devices, Inc. [AMD]'
+	device     = 'USB Controller 3'
         class      = serial bus
         subclass   = USB
 

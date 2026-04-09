@@ -57,10 +57,12 @@ Hardware: Lenovo ThinkPad T14s Gen 4 (AMD)
 - USB Ports
     xhci0@pci0:195:0:3:	class=0x0c0330 rev=0x00 hdr=0x00 vendor=0x1022 device=0x15b9 subvendor=0x17aa subdevice=0x50d8
         vendor     = 'Advanced Micro Devices, Inc. [AMD]'
+	device     = 'USB Controller 1'
         class      = serial bus
         subclass   = USB
     xhci1@pci0:195:0:4:	class=0x0c0330 rev=0x00 hdr=0x00 vendor=0x1022 device=0x15ba subvendor=0x17aa subdevice=0x50d8
         vendor     = 'Advanced Micro Devices, Inc. [AMD]'
+	device     = 'USB Controller 2'
         class      = serial bus
         subclass   = USB
 
