@@ -28,7 +28,7 @@ Hardware: HP 250 15.6 inch G9 Notebook PC
         device     = 'RTL8821CE 802.11ac PCIe Wireless Network Adapter'
         class      = network
 
-  Category Total Score: 1/2
+  Category Total Score: 0.5/2
 
 --------------------
 
