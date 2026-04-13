@@ -1,7 +1,7 @@
 === FreeBSD Hardware Status Info ===
 
 Running: FreeBSD 15.0-RELEASE releng/15.0-n280995-7aedc8de6446 GENERIC
-Hardware: 83HN
+Hardware: Lenovo Yoga Pro 7 
 ------------------------------------
 
 - Graphics
